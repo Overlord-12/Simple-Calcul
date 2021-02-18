@@ -23,6 +23,7 @@ namespace Calcul
 
         }
 
+        //Операция деления
         private void button2_Click(object sender, EventArgs e)
         {
             try
@@ -46,7 +47,7 @@ namespace Calcul
             }
             
         }
-
+        // Операция умножение 
         private void button1_Click(object sender, EventArgs e)
         {
             try
@@ -64,7 +65,7 @@ namespace Calcul
             }
            
         }
-
+        // Операция деления без остатка
         private void button3_Click(object sender, EventArgs e)
         {
             try
@@ -81,7 +82,7 @@ namespace Calcul
             }
 
         }
-
+        // Возведение в квадрат 
         private void button4_Click(object sender, EventArgs e)
         {
             try
@@ -97,7 +98,7 @@ namespace Calcul
             }
            
         }
-
+        // Операция Сложение
         private void button5_Click(object sender, EventArgs e)
         {
             try
@@ -116,7 +117,7 @@ namespace Calcul
 
             }
         }
-
+        // Операция Вычитание
         private void button6_Click(object sender, EventArgs e)
         {
             try
@@ -133,7 +134,7 @@ namespace Calcul
 
             }
         }
-
+            // Операция возведение в степень 1\2
             private void button7_Click(object sender, EventArgs e)
         {
             try
@@ -149,7 +150,7 @@ namespace Calcul
 
             }
         }
-
+        // Операция экспонирование
         private void button9_Click(object sender, EventArgs e)
         {
             try
@@ -166,7 +167,7 @@ namespace Calcul
 
 
         }
-
+        // Операция вычисление уникальной функции
         private void button8_Click(object sender, EventArgs e)
         {
             try
